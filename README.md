@@ -1,3 +1,3 @@
 # Myprofile
-My name is Thanh 
+My name is Danh
 https://danhlearningcode.github.io/Myprofile/
